@@ -9,7 +9,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-Auth%20%2B%20Firestore-FFCA28?logo=firebase&logoColor=black)
 ![Material 3](https://img.shields.io/badge/Design-Material%203-4CAF50)
 
-### 📲 [Descarrega l'APK](ENLLAÇ_AL_DRIVE_O_GITHUB)
+
 
 </div>
 
