@@ -37,21 +37,6 @@ Aplicació Android per gestionar llistes de la compra de manera col·laborativa.
 - **Classificació automàtica**: en escriure un producte, se li assigna la categoria corresponent (per exemple, «llet» → *Làctics*, «pa» → *Fleca*). Si la categoria no existeix a la llista, es crea automàticament, i l'usuari la pot canviar manualment.
 - **Productes predefinits amb icones**: catàleg dels articles més habituals per afegir-los amb un sol toc.
 
-## 🚀 Com provar l'aplicació
-
-1. Descarrega l'APK des de [aquest enllaç](ENLLAÇ_AL_DRIVE_O_GITHUB).
-2. Al mòbil, obre el fitxer i permet **instal·lar aplicacions d'orígens desconeguts** si Android ho demana.
-3. Si Google Play Protect avisa, tria **Més detalls → Instal·la igualment**.
-4. Obre l'app i **inicia la sessió amb Google**.
-
-### 🧪 Provar el fet de compartir
-
-1. Amb el **compte A**, crea una llista i comparteix-la amb el Gmail del **compte B**.
-2. Amb el **compte B** (en un altre mòbil o tancant la sessió), la llista apareixerà a «Compartides amb mi».
-3. Edita un producte o marca'l com a completat: l'altre usuari ho veurà actualitzat.
-
-> ℹ️ Només el **propietari** pot eliminar una llista. Qualsevol membre pot gestionar-ne categories i productes.
-
 ## 🛠️ Tecnologies
 
 - **Llenguatge:** Kotlin
@@ -87,8 +72,8 @@ Les regles de Firestore fan que només els membres d'una llista (el seu correu �
 
 ## 👤 Autoria
 
-**[El teu nom]**
-[Assignatura / Curs / Centre] · [Any]
+**Alexandra Oana Pirau**
+[Projecte Intermodular / DAM2TA / Ins Baix Camp] 
 
 ---
 
